@@ -1,0 +1,10 @@
+So it is a library manaagement system where there are many functionality
+1. First of all we have to sign in we have 3 options to sign as librarian,student,professor
+2. As only librarian can add the user we have to first login to librarian to add any new user so we have provided a by default id for librarian
+    Name-'admin'
+    password-'123'
+3. Then we can add a user of any type.
+4. here also we can add books and update differet things.
+5. The fine is imposed after 30 days for student and after 60 days for professor so after paying fine all the books with fine renew date
+   will be updated to the day of fine submission.
+6. Before book submission the program ensure that user does not have any fine on any book.
